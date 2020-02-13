@@ -1,0 +1,11 @@
+C:\Users\pvhau\source\repos\DL\bin\Debug\netstandard2.0\DL.deps.json
+C:\Users\pvhau\source\repos\DL\bin\Debug\netstandard2.0\DL.dll
+C:\Users\pvhau\source\repos\DL\bin\Debug\netstandard2.0\DL.pdb
+C:\Users\pvhau\source\repos\DL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\pvhau\source\repos\DL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.csprojAssemblyReference.cache
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.AssemblyInfoInputs.cache
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.AssemblyInfo.cs
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.csproj.CopyComplete
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.dll
+C:\Users\pvhau\source\repos\DL\obj\Debug\netstandard2.0\DL.pdb

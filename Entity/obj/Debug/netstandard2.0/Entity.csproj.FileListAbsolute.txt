@@ -1,0 +1,8 @@
+C:\Users\pvhau\source\repos\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\pvhau\source\repos\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\pvhau\source\repos\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\pvhau\source\repos\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\pvhau\source\repos\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\pvhau\source\repos\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\pvhau\source\repos\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\pvhau\source\repos\Entity\obj\Debug\netstandard2.0\Entity.pdb
